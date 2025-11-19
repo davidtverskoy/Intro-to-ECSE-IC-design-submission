@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a 2 bit adder with a carry in input
 
 ## How to test
 
-Explain how to use your project
+You use the switches to put in certain values to add 2-bit numbers. 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED's
